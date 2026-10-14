@@ -45,7 +45,7 @@
       // DB 是结构化数据事实源；部署前必须先应用 apps/worker/migrations。
       "binding": "DB",
       "database_name": "renewlet",
-      "database_id": "7cd014a1-792a-485c-8025-a23ca4608ca4",
+      "database_id": "61f3dcc2-c595-452c-93ce-d895115191be",
       "migrations_dir": "apps/worker/migrations"
     }
   ],
